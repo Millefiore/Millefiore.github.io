@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Millefiore.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Millefiore.github.io/static/js/main.c11ca465.chunk.js",
+    "main.js.map": "/Millefiore.github.io/static/js/main.c11ca465.chunk.js.map",
+    "runtime-main.js": "/Millefiore.github.io/static/js/runtime-main.7ca4ce8c.js",
+    "runtime-main.js.map": "/Millefiore.github.io/static/js/runtime-main.7ca4ce8c.js.map",
+    "static/js/2.9aefffc0.chunk.js": "/Millefiore.github.io/static/js/2.9aefffc0.chunk.js",
+    "static/js/2.9aefffc0.chunk.js.map": "/Millefiore.github.io/static/js/2.9aefffc0.chunk.js.map",
+    "index.html": "/Millefiore.github.io/index.html",
+    "precache-manifest.c69f10370730488c17c8d432f33c0787.js": "/Millefiore.github.io/precache-manifest.c69f10370730488c17c8d432f33c0787.js",
+    "service-worker.js": "/Millefiore.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Millefiore.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9aefffc0.chunk.js.LICENSE.txt": "/Millefiore.github.io/static/js/2.9aefffc0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Millefiore.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca4ce8c.js",
+    "static/js/2.9aefffc0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c11ca465.chunk.js"
+  ]
+}
